@@ -4,7 +4,7 @@
         <description><![CDATA[F-crazy]]></description>
         <link>https://thegrid.ai/taylor-dixson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 18:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 18:05:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taylor-dixson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[105 f/2 DC Nikkor]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/taylor-dixson/a83370f8-1819-49f2-883a-a944f7aacd13/index.html</link>
             <guid isPermaLink="false">a83370f8-1819-49f2-883a-a944f7aacd13</guid>
             <pubDate>Mon, 11 Apr 2016 15:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Dixson]]></title>
+            <description><![CDATA[<article><h1>Taylor Dixson</h1><p>I am a photographer working at ATOMICDUST. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1853a3eb0b44d0d8ae6f97c342c50804e789c0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/taylor-dixson/testing-the-grid-seems-pretty-neat-not-sure-what-this-site/index.html</link>
+            <guid isPermaLink="false">ada0626f-0dfb-4c2f-b3ac-d627f2a0d7e2</guid>
+            <pubDate>Mon, 11 Apr 2016 18:05:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/taylor-dixson/80feac68-e21b-4f22-961b-9ad097dcd338/index.html</link>
             <guid isPermaLink="false">80feac68-e21b-4f22-961b-9ad097dcd338</guid>
             <pubDate>Mon, 11 Apr 2016 16:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/feec4efd-dec9-4bbf-b12d-e2f4b392bf6b.jpg">]]></description>
-            <link>https://thegrid.ai/taylor-dixson/936a6e99-dfde-40c4-bfd9-2825274dd4e7/index.html</link>
-            <guid isPermaLink="false">936a6e99-dfde-40c4-bfd9-2825274dd4e7</guid>
-            <pubDate>Mon, 11 Apr 2016 15:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
