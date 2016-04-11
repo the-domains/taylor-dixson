@@ -17,8 +17,8 @@ keywords:
   - fs7
   - denoiser
 description: ''
-datePublished: '2016-04-11T20:44:18.177Z'
-dateModified: '2016-04-11T20:44:07.295Z'
+datePublished: '2016-04-11T20:48:30.933Z'
+dateModified: '2016-04-11T20:44:25.255Z'
 author:
   - name: FloEvans
     url: 'https://www.youtube.com/user/FloEvans'
@@ -81,4 +81,4 @@ Low Light Monster. Horrible menus. Useless focus peaking.
 
 This sensor can't really be beat. Everything else is kind of meh but you deal with it if you need to shoot in zero light. 
 
-Slog gamma curve and beefy codec make grading a breeze.
+Slog gamma curve and beefy codec make grading a breeze. https://www.youtube.com/watch?v=7diq8kTw7\_k
