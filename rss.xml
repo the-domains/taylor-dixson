@@ -4,8 +4,15 @@
         <description><![CDATA[F/Crazy]]></description>
         <link>https://thegrid.ai/taylor-dixson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 20:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 20:22:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taylor-dixson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nikon FM]]></title>
+            <description><![CDATA[<article><h1>Nikon FM</h1><p>Love the Nikon ecosystem. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f45de92fc82571a54a7eaefff0045a16f216c4c5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/taylor-dixson/83998c89-5c12-47c0-a052-742390f0ffdd/index.html</link>
+            <guid isPermaLink="false">83998c89-5c12-47c0-a052-742390f0ffdd</guid>
+            <pubDate>Mon, 11 Apr 2016 20:21:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fuji X10]]></title>
             <description><![CDATA[<article><h1>Fuji X10</h1><p>This is my travel/family fun camera. Great little lens, great color from the jpg engine.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc34b5cd-11a8-47ef-b06f-337fd40cb5e3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/taylor-dixson/canon-xa20-camcorder/index.html</link>
             <guid isPermaLink="false">9e31c0a9-77dc-4822-969e-acb943315f34</guid>
             <pubDate>Mon, 11 Apr 2016 17:41:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DJI F450]]></title>
-            <description><![CDATA[<article><h1>DJI F450</h1><p>This is basically the Phantom in kit form, built it and crashed it. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b48167e5-b6fa-4a41-83f6-942453cda1e0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/taylor-dixson/drone/index.html</link>
-            <guid isPermaLink="false">02b494b6-075d-4fb2-b5fb-f3df398a0b19</guid>
-            <pubDate>Mon, 11 Apr 2016 17:04:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
