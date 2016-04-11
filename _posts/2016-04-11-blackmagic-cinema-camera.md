@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Blackmagic Cinema Camera
-datePublished: '2016-04-11T15:19:24.574Z'
-dateModified: '2016-04-11T15:19:22.849Z'
+datePublished: '2016-04-11T15:22:13.154Z'
+dateModified: '2016-04-11T15:22:05.329Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-blackmagic-cinema-camera.md
@@ -22,7 +22,7 @@ url: blackmagic-cinema-camera/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f540e3c-4a21-4f40-82a7-1f7a98a07557.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba91190f-481a-4e2f-a144-5836d27c58e8.jpg)
 
 Blackmagic Cinema Camera
 
