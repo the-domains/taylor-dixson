@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'https://www.youtube.com/watch?v=IGTzzw1JYwM'
-datePublished: '2016-04-11T16:10:18.329Z'
-dateModified: '2016-04-11T16:10:13.391Z'
+description: Messing around with the blackmagic. Really amazing camera with a few quirks...
+datePublished: '2016-04-11T16:11:44.302Z'
+dateModified: '2016-04-11T16:10:26.908Z'
 title: Blackmagic Cinema Camera
 author: []
 sourcePath: _posts/2016-04-11-blackmagic-cinema-camera.md
