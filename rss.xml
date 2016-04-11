@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Taylor Dixson]]></title>
         <description><![CDATA[Taylor Dixson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/taylor-dixson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 14:59:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 15:05:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taylor-dixson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6195cf3c-17f0-4b2b-b7be-eb36553a5cee.jpg">]]></description>
+            <link>https://thegrid.ai/taylor-dixson/a83370f8-1819-49f2-883a-a944f7aacd13/index.html</link>
+            <guid isPermaLink="false">a83370f8-1819-49f2-883a-a944f7aacd13</guid>
+            <pubDate>Mon, 11 Apr 2016 15:05:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09649ccf-aa41-4a40-a394-d9d322cbad09.jpg">]]></description>
-            <link>undefinedtesting-the-grid-seems-pretty-neat-not-sure-what-this-site/index.html</link>
+            <link>https://thegrid.ai/taylor-dixson/testing-the-grid-seems-pretty-neat-not-sure-what-this-site/index.html</link>
             <guid isPermaLink="false">ada0626f-0dfb-4c2f-b3ac-d627f2a0d7e2</guid>
             <pubDate>Mon, 11 Apr 2016 14:58:43 GMT</pubDate>
         </item>
