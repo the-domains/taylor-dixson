@@ -4,7 +4,7 @@
         <description><![CDATA[F-crazy]]></description>
         <link>https://thegrid.ai/taylor-dixson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 17:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 17:49:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taylor-dixson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[105 f/2 DC Nikkor]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/taylor-dixson/a83370f8-1819-49f2-883a-a944f7aacd13/index.html</link>
             <guid isPermaLink="false">a83370f8-1819-49f2-883a-a944f7aacd13</guid>
             <pubDate>Mon, 11 Apr 2016 15:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sony a6300]]></title>
+            <description><![CDATA[<h1>Sony a6300</h1>]]></description>
+            <link>https://thegrid.ai/taylor-dixson/sony-a6300/index.html</link>
+            <guid isPermaLink="false">f2b41508-0fa6-4560-9ab1-b20df8e3714e</guid>
+            <pubDate>Mon, 11 Apr 2016 17:48:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[60mm Micro AF-D]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/taylor-dixson/936a6e99-dfde-40c4-bfd9-2825274dd4e7/index.html</link>
             <guid isPermaLink="false">936a6e99-dfde-40c4-bfd9-2825274dd4e7</guid>
             <pubDate>Mon, 11 Apr 2016 15:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09649ccf-aa41-4a40-a394-d9d322cbad09.jpg">]]></description>
-            <link>https://thegrid.ai/taylor-dixson/testing-the-grid-seems-pretty-neat-not-sure-what-this-site/index.html</link>
-            <guid isPermaLink="false">ada0626f-0dfb-4c2f-b3ac-d627f2a0d7e2</guid>
-            <pubDate>Mon, 11 Apr 2016 15:48:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
