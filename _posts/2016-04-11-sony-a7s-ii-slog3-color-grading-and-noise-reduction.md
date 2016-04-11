@@ -17,8 +17,8 @@ keywords:
   - fs7
   - denoiser
 description: ''
-datePublished: '2016-04-11T20:48:30.933Z'
-dateModified: '2016-04-11T20:44:25.255Z'
+datePublished: '2016-04-11T21:25:46.150Z'
+dateModified: '2016-04-11T21:25:42.757Z'
 author:
   - name: FloEvans
     url: 'https://www.youtube.com/user/FloEvans'
