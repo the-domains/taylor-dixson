@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This lens has terrible sharpness, horrible flare and ghosting and chromatic aberrations that will make your eyes bleed! I love it. Prefect to add some vintage flair to otherwise pristine digital video.'
-datePublished: '2016-04-11T16:56:38.836Z'
-dateModified: '2016-04-11T16:56:01.381Z'
+datePublished: '2016-04-11T17:59:20.781Z'
+dateModified: '2016-04-11T17:42:11.246Z'
 title: The worst lens Nikon ever made.
 author: []
 sourcePath: _posts/2016-04-11-the-worst-lens-nikon-ever-made.md
