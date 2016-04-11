@@ -17,8 +17,8 @@ keywords:
   - fs7
   - denoiser
 description: ''
-datePublished: '2016-04-11T19:50:29.199Z'
-dateModified: '2016-04-11T19:48:31.011Z'
+datePublished: '2016-04-11T19:57:19.098Z'
+dateModified: '2016-04-11T19:57:18.880Z'
 author:
   - name: FloEvans
     url: 'https://www.youtube.com/user/FloEvans'
@@ -77,5 +77,3 @@ _context: 'http://schema.org'
 # Sony A7s mark II
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7diq8kTw7_k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7diq8kTw7_k&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7diq8kTw7_k%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a674ac-ad4e-417b-8fe5-9a2b0ed50936.jpg)
