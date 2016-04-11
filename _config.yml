@@ -1,6 +1,6 @@
 name: Photo Gear
 favicon: null
-layout_spectrum: 0.37374
+layout_spectrum: 0.51317
 typography_spectrum: 0.64619
 title: F/Crazy
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.375
   lightness: 0.5
   saturation: 0.625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
