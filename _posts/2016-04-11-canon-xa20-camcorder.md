@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: undefined
-datePublished: '2016-04-11T16:55:21.397Z'
-dateModified: '2016-04-11T16:55:13.444Z'
+datePublished: '2016-04-11T17:41:37.152Z'
+dateModified: '2016-04-11T17:41:02.830Z'
 title: Canon XA20 Camcorder
 author: []
 sourcePath: _posts/2016-04-11-canon-xa20-camcorder.md
