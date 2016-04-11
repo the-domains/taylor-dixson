@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Testing the grid. Seems pretty neat. Not sure what this site is going to be about yet.\_"
-datePublished: '2016-04-11T14:58:43.765Z'
-dateModified: '2016-04-11T14:58:31.763Z'
+datePublished: '2016-04-11T15:42:20.592Z'
+dateModified: '2016-04-11T14:58:52.630Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-testing-the-grid-seems-pretty-neat-not-sure-what-this-site.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-testing-the-grid-seems-pretty-neat-not-sure-what-this-site.md
-published: true
 url: testing-the-grid-seems-pretty-neat-not-sure-what-this-site/index.html
 _type: Article
 
