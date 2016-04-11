@@ -1,6 +1,6 @@
 name: Taylor Dixson
 favicon: null
-layout_spectrum: 0.50717
+layout_spectrum: 0.49558
 typography_spectrum: 0.64619
 title: F-crazy
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#031f2d'
-    - '#224f64'
-    - '#febb77'
-    - '#b8765e'
-    - '#ad0648'
+    - '#f4f8fb'
+    - '#c5c4ca'
+    - '#002653'
+    - '#75685f'
+    - '#418dd9'
   brandStrength: 0.25
   lightness: 0.5
   saturation: 0.5
