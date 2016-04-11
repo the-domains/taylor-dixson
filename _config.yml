@@ -1,0 +1,28 @@
+name: Taylor Dixson
+favicon: null
+layout_spectrum: 0.3764129211194813
+typography_spectrum: 0.5786721943877637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.32635665382258594
+  lightness: 0.3395032954867929
+  saturation: 0.14493921701796353
+  rhythmicContrast: 0.1448522317223251
+purpose: []
