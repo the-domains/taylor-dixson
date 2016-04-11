@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Testing the grid. Seems pretty neat. Not sure what this site is going to be about yet.\_"
-datePublished: '2016-04-11T15:48:13.017Z'
-dateModified: '2016-04-11T15:47:26.178Z'
-title: ''
+description: "I am a photographer working at ATOMICDUST.\_"
+datePublished: '2016-04-11T18:05:42.829Z'
+dateModified: '2016-04-11T16:36:15.831Z'
+title: Taylor Dixson
 author: []
 sourcePath: _posts/2016-04-11-testing-the-grid-seems-pretty-neat-not-sure-what-this-site.md
 published: true
