@@ -4,8 +4,15 @@
         <description><![CDATA[F/Crazy]]></description>
         <link>https://thegrid.ai/taylor-dixson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 22:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 22:37:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taylor-dixson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ballhead Perfection]]></title>
+            <description><![CDATA[<article><h1>Ballhead Perfection</h1><p>Love this ballhead to bits. Expensive but should last forever? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36cbcf0171dee279112d49cc042464df4503610b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/taylor-dixson/actratech-gv2/index.html</link>
+            <guid isPermaLink="false">f02086ed-eee1-4de0-961e-c303afd677bc</guid>
+            <pubDate>Mon, 11 Apr 2016 22:37:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[105 f/2 DC]]></title>
             <description><![CDATA[<article><h1>105 f/2 DC</h1><p>This is a nikon 105 f/2 de-focus control portrait lens. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fae0c2e9f053fde176e797983b26715fa4854ddd.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/taylor-dixson/sony-a6300/index.html</link>
             <guid isPermaLink="false">d6926e35-63ed-4820-a781-313924c1bd34</guid>
             <pubDate>Mon, 11 Apr 2016 18:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[60mm Micro AF-D]]></title>
-            <description><![CDATA[<article><h1>60mm Micro AF-D</h1><p>60mm Micro AF-D with PN-11 extension tube. This was my goto lens for product photography (and bugs) for a long time. Replaced with the 105mm Micro AFS VR. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ace34f5af07bd26b35d76250195017c4555529b4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/taylor-dixson/60mm-micro-af-d/index.html</link>
-            <guid isPermaLink="false">c8babc53-4d99-4208-81e6-d641fa05c635</guid>
-            <pubDate>Mon, 11 Apr 2016 17:42:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
